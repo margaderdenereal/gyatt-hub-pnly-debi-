@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My first paragraph</h1>
+    <h2>My first paragraph</h2>
+    <h3>My first paragraph</h3>
+    <h4>My first paragraph</h4>
+    <h5>My first paragrapw</h5>
+    <h6>My first paragraph</h6>
+
+    <!-- Paragraph-->
+    <p>энэ бол өгүүлбэр юм<br>
+        This is another paragraph<br>
+    </p>
+    <li>Coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+    <li>Water</li>
+    <li>Bubble tea</li><br>
+    <!-- alt tag -->
+</body>
+</html>
